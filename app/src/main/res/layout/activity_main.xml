@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wall"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:fontFamily="@font/playfair_display"
+        android:text="ART.IST"
+        android:textColor="@color/yellow"
+        android:textSize="60sp"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="350dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="15dp"
+        android:elevation="6dp"
+        android:stateListAnimator="@null"
+        android:text="@string/start"
+        android:textSize="20sp"
+        android:translationZ="4dp" />
+
+    <Button
+        android:id="@+id/settings"
+        android:layout_width="350dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="20dp"
+        android:elevation="6dp"
+        android:stateListAnimator="@null"
+        android:text="@string/settings"
+        android:textSize="20sp"
+        android:translationZ="4dp" />
+
+    <Button
+        android:id="@+id/credits"
+        android:layout_width="350dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="20dp"
+        android:elevation="6dp"
+        android:stateListAnimator="@null"
+        android:text="@string/credits"
+        android:textSize="20sp"
+        android:translationZ="4dp" />
+
+
+</LinearLayout>

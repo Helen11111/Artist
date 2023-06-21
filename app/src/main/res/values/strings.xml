@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Art.ist</string>
+    <string name="credits">Credits</string>
+    <string name="settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="level1">1</string>
+    <string name="level2">2</string>
+    <string name="level3">3</string>
+    <string name="level4">4</string>
+    <string name="level5">5</string>
+    <string name="level6">6</string>
+    <string name="level7">7</string>
+    <string name="level8">8</string>
+    <string name="level9">9</string>
+    <string name="level10">10</string>
+    <string name="level11">11</string>
+    <string name="level12">12</string>
+    <string name="level13">13</string>
+    <string name="level14">14</string>
+    <string name="level15">15</string>
+    <string name="level">Level</string>
+
+
+    <string name="pic1">Последний день Помпеи</string>
+
+    <string name="que1p1">Название улицы на которой происходит действие изображенное на картине:</string>
+    <string name="ans1q1p1">Центральная улица</string>
+    <string name="ans2q1p1">Рыночная улица</string>
+    <string name="ans3q1p1">Улица гробниц</string>
+    <string name="ans4q1p1">Площадь Фонтанов</string>
+
+    <string name="que2p1">Графиня Самойлова, чей темперамент вполне можно
+        было сравнить с вулканом, вызвалась позировать Брюллову. Сколько раз запечатлен её образна полотне?</string>
+    <string name="ans1q2p1">1</string>
+    <string name="ans2q2p1">2</string>
+    <string name="ans3q2p1">3</string>
+    <string name="ans4q2p1">4</string>
+
+    <string name="que3p1">Название вулкана, извергнувшегося на Помпеи:</string>
+    <string name="ans1q3p1">Вулькано</string>
+    <string name="ans2q3p1">Везувий</string>
+    <string name="ans3q3p1">Эпомео</string>
+    <string name="ans4q3p1">Этна</string>
+
+    <string name="que4p1">Карлу Блюллову заказчик заплатил за картину 40000 франков. При пересчёте на современные рубли это 9000000.Кто был заказчиком?</string>
+    <string name="ans1q4p1">Юлия Самойлова</string>
+    <string name="ans2q4p1">Николай I</string>
+    <string name="ans3q4p1">Павел Третьяков</string>
+    <string name="ans4q4p1">Анатолий Демидов</string>
+
+
+    <string name="pic2">Явление Христа народу</string>
+
+    <string name="que1p2">Сколько лет потратил художник на написание картины "Явление Христа народу"?</string>
+    <string name="ans1q1p2">2 года</string>
+    <string name="ans2q1p2">10 лет</string>
+    <string name="ans3q1p2">более 20 лет</string>
+    <string name="ans4q1p2">почти 29 лет</string>
+
+    <string name="que2p2">В каком стиле картина "Явление Христа народу"?</string>
+    <string name="ans1q2p2">Классицизм</string>
+    <string name="ans2q2p2">Ренессанс</string>
+    <string name="ans3q2p2">Импрессионизм</string>
+    <string name="ans4q2p2">Абстракционизм</string>
+
+    <string name="que3p2">В 1831 году живописец поехал в Италию. Его поездка затянулась почти на 30 лет. В роли кого Иванов поехал в Италию?</string>
+    <string name="ans1q3p2">Профессор</string>
+    <string name="ans2q3p2">Путешественик</string>
+    <string name="ans3q3p2">Студент</string>
+    <string name="ans4q3p2">Эмигрант</string>
+
+    <string name="que4p2">Сколько этюдов было написано Александром Ивановым при написании картины "Явление Христа народу"</string>
+    <string name="ans1q4p2">21</string>
+    <string name="ans2q4p2">15</string>
+    <string name="ans3q4p2">79</string>
+    <string name="ans4q4p2">86</string>
+
+    <string name="todo">TODO</string>
+    <string name="Todo">TODO</string>
+    <string name="ToDo">TODO</string>
+    <string name="toDo">TODO</string>
+    <string name="ToDO">TODO</string>
+    <string name="TODO">TODO</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="find_fr">Найди фрагмент</string>
+    <string name="music">Music</string>
+    <string name="sound">Sound</string>
+
+
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Не верно!</string>
+    <string name="button_dialog">ПРОВЕРИТЬ</string>
+
+
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="hint_etUser">Введите имя аккаунта</string>
+    <string name="hint_etPassword">Введите пароль</string>
+    <string name="hint_etEmail">Введите Email</string>
+    <string name="have_account">Не создан аакаунт?</string>
+    <string name="sign_up">Создать аккаунт</string>
+    <string name="btnLogin">СТАРТ</string>
+    <string name="btnCreateAcc">Создать</string>
+    <string name="menu">Меню</string>
+    <string name="userName_menu">Привет, !</string>
+    <string name="tvStart">Играть</string>
+    <string name="tvRule">Правила</string>
+    <string name="tvHistory">Отчет</string>
+    <string name="tvExit">Выход</string>
+    <string name="tvRuleTitle">Правила</string>
+    <string name="btnNext">Next</string>
+    <string name="btnStartAgain">Играть снова!</string>
+    <string name="tvQuiz_Result">Результат</string>
+    <string name="tvQuiz_messageResult">Неплохой результат,</string>
+    <string name="tv_Subject">Предмет:</string>
+
+
+</resources>
